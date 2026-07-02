@@ -18,8 +18,8 @@ declare -A nginx=(
 
 # Current njs versions
 declare -A njs=(
-    [mainline]='0.9.9'
-    [stable]='0.9.9'
+    [mainline]='1.0.0'
+    [stable]='1.0.0'
 )
 
 # Current njs patchlevel version
